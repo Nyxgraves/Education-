@@ -1,4 +1,4 @@
-# Education-
+# git clone https://github.com/nyxgraves/Education.git
 # 🎓 Student Performance Dashboard
 *A Business Intelligence Project on Academic Performance and Demographics*
 
@@ -78,3 +78,6 @@ sarahboone986@gmail.com
 
 ## 🏷️ Tags
 `#BusinessIntelligence` `#StudentPerformance` `#EducationAnalytics` `#PowerBI` `#Tableau` `#Dashboard`
+
+
+[archive.zip](https://github.com/user-attachments/files/20586559/archive.zip)
