@@ -1,4 +1,4 @@
-# git clone https://github.com/nyxgraves/Education.git
+# https://github.com/nyxgraves/Education.git
 # 🎓 Student Performance Dashboard
 *A Business Intelligence Project on Academic Performance and Demographics*
 
